@@ -1,3 +1,9 @@
+1. Content: The content found on the website is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-sa/4.0/).
+
+---
+
+2. The website uses the Agency (https://github.com/y7kim/agency-jekyll-theme) Jekyll theme by Rick K. (https://github.com/y7kim/), licensed under the Apache License Version 2.0 (below).
+
 Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -186,7 +192,8 @@ Apache License
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright {yyyy} {name of copyright owner}
+   Copyright 2014 Rick K.
+             2015 Open Cosmics
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.

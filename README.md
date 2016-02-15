@@ -32,3 +32,12 @@ Open Cosmics is evaluating several data formats, such as [FITS](http://fits.gsfc
 ## How to participate
 
 [COMING SOON!]
+
+---
+
+## Licences
+
+- **Content**: The content found on the website is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+- **Backend**: The website uses the [Agency](https://github.com/y7kim/agency-jekyll-theme) Jekyll theme by [@y7kim](https://github.com/y7kim/), licensed under the Apache License Version 2.0.
+
+Read more: [LICENSE](https://github.com/OpenCosmics/opencosmics.github.io/blob/master/LICENSE)
