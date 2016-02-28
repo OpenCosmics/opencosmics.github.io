@@ -31,7 +31,7 @@ Open Cosmics is evaluating several data formats, such as [FITS](http://fits.gsfc
 
 ## How to participate
 
-[COMING SOON!]
+[Please see CONTRIBUTING.md](/CONTRIBUTING.md).
 
 ---
 
