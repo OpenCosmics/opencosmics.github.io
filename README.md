@@ -1,5 +1,9 @@
 # Cosmic-Ray Physics for Everyone
 
+[![Join the chat at https://gitter.im/OpenCosmics/opencosmics.github.io](https://badges.gitter.im/OpenCosmics/opencosmics.github.io.svg)](https://gitter.im/OpenCosmics/opencosmics.github.io)
+[![MozSprint 2016](https://img.shields.io/badge/MozSprint-2016-brightgreen.svg)](https://www.mozillascience.org/save-the-date-mozilla-science-lab-global-sprint)
+[![MozSprint 2015](https://img.shields.io/badge/MozSprint-2015-orange.svg)](https://www.mozillascience.org/global-sprint-2015)
+
 Welcome to Open Cosmics! The aim of this project is to build a foundational structure for the many cosmic-ray projects around the globe by providing:
 
 1. a standard **data format** and schema for cosmic-ray data,
@@ -17,7 +21,7 @@ Physicists can learn a lot about our Universe and the laws governing it by study
 
 ## The challenge
 
-With some not-too-sophisticated apparatus, you and I can observe cosmic rays in our homes and schools and perform both basic and advanced analysis on them.
+With some not-too-sophisticated apparatus, you and I can observe cosmic rays in our homes and schools, and perform both basic and advanced analysis on them.
 There are a whole [host of cosmic-ray projects](https://indico.cern.ch/event/99542/page/5191-represented-projects) around the world, and some upcoming include [CosmicPi](http://cosmicpi.org/) and [CRAYFIS](http://crayfis.io/).
 However, with a proliferation of projects comes a proliferation of data types, formats and schemas.
 An inter-operable data format specification would greatly advance the cause of cosmic-ray research by allowing researchers and citizen scientists to analyse data from diverse sources.
@@ -32,6 +36,7 @@ Open Cosmics is evaluating several data formats, such as [FITS](http://fits.gsfc
 ## How to participate
 
 [Please see CONTRIBUTING.md](/CONTRIBUTING.md).
+Also, feel free to jump into [our gitter room](https://gitter.im/OpenCosmics/opencosmics.github.io).
 
 ---
 
