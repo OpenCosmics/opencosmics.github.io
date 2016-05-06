@@ -8,7 +8,7 @@ If you are working on any cosmic-ray projects or are aware of ones that make the
 
 ## Testing the Open Cosmics data format
 
-We hope that the Open Cosmics data format is compatible with data from all existing cosmic-ray projects and that future projects adopt it as well. We are always looking to improve the format and its specifications. If you think the they are lacking in any way, please [let us know](https://github.com/OpenCosmics/opencosmics.github.io/issues/).
+We hope that the Open Cosmics data format is compatible with data from all existing cosmic-ray projects and that future projects adopt it as well. We are always looking to improve the format and its specifications. If you think they are lacking in any way, please [let us know](https://github.com/OpenCosmics/opencosmics.github.io/issues/).
 
 ## Open analysis tools
 
