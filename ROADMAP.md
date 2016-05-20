@@ -8,11 +8,13 @@
     - [ ] [HiSPARC](http://www.hisparc.nl/en/)
     - [ ] [ERGO](http://www.ergotelescope.org/)
     - [ ] [CERN@school](http://researchinschools.org/CERN/home.html) ([GitHub](https://github.com/CERNatschool))
+    - [ ] [QuarkNet](https://www.i2u2.org/elab/cosmic)
     - [ ] ???
 - [ ] Test mapping raw data to the Open Cosmics data format from:
     - [ ] [HiSPARC](http://www.hisparc.nl/en/)
     - [ ] [ERGO](http://www.ergotelescope.org/)
     - [ ] [CERN@school](http://researchinschools.org/CERN/home.html) ([GitHub](https://github.com/CERNatschool))
+    - [ ] [QuarkNet](https://www.i2u2.org/elab/cosmic)
     - [ ] ???
 - [ ] Finalise Open Cosmics data format
 
