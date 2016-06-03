@@ -542,6 +542,16 @@ section h3.section-subheading {
     margin-bottom: 0;
 }
 
+@media(max-width:767px) {
+    .timeline>li .timeline-image h4 {
+        margin-top: 0;
+        color: #333;
+        font-size: 19px;
+        line-height: 24.5px;
+        padding: 0 20px 0 78px;
+    }
+}
+
 @media(min-width:768px) {
     .timeline:before {
         left: 50%;
@@ -570,6 +580,8 @@ section h3.section-subheading {
         margin-top: 16px;
         font-size: 13px;
         line-height: 18px;
+        width: inherit;
+        margin-left: -21px;
     }
 
     .timeline>li.timeline-inverted>.timeline-panel {
