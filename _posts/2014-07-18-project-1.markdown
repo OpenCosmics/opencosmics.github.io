@@ -4,12 +4,13 @@ subtitle: A cosmic-ray detector for your Raspberry&nbsp;Pi
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+img: cosmic-pi-screenshot.png
+thumbnail: cosmic-pi-logo.png
+#alt: Cosmic Pi
+project-date: 2015
+project-link: http://cosmicpi.org
+#client: Start Bootstrap
+category: Hardware
+description: Cosmic Pi - a low cost distributed cosmic ray detector, based on Raspberry Pi. It makes the detection and analysis of cosmic rays accessible to students, educators and ordinary people. It uses a specially designed detector combined with the low cost hardware of the Raspberry Pi computer for data storage and online analysis.
 
 ---

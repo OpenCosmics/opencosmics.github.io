@@ -1,15 +1,13 @@
 ---
-title: YOUR NEW PROJECT!
-subtitle: Join Open Cosmics and contribute to science!
+title: HiSPARC
+subtitle: Secondary schools and academic institutions join forces and form a network to measure cosmic rays with extremely high energy.
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+img: hisparc-screenshot.png
+thumbnail: hisparc-logo.png
+project-date: 2004
+category: Hardware
+description: HiSPARC offers students the opportunity to participate in real research, with the purpose of finding out more about these mysterious and rare cosmic particles. In addition, students participating in the experiment can use this for their profile paper for the final exam.
 
 ---
